@@ -7,6 +7,7 @@ import (
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
+	"github.com/rs/cors"
 	"github.com/tkcolorado/gql-app/graph"
 	"github.com/tkcolorado/gql-app/graph/generated"
 )
